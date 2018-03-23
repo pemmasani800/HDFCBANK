@@ -1,0 +1,5 @@
+loan amount 1000
+loan amount 2000
+loan amount 3000
+loan amount 4000
+loan amount 5000
